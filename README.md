@@ -1,6 +1,7 @@
 ## Hi there, I'm Rico! 👋 
-<a href="https://discordapp.com/users/471390077772365854">
-  <img align="left" alt="Rico's Discord" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+### 📫 How to reach me:
+<a href="https://discordapp.com/users/471390077772365854"> 
+  <img align="left" alt="Rico's Discord" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /> 
 </a>
 <br>
 

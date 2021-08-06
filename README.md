@@ -1,11 +1,10 @@
-### Hi there, I'm Rico! 👋 
+## Hi there, I'm Rico! 👋 
 <a href="https://discordapp.com/users/471390077772365854">
-  <img align="left" alt="Rico's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Rico's Discord" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br>
 
-### WIP
-
+### Still WIP :hammer_and_wrench: ...
 <!--
 ## My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicoGuerra)](https://github.com/anuraghazra/github-readme-stats)

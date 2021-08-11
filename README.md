@@ -2,8 +2,13 @@
    <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Rico!</h1>
 </div>
   <a href="https://discordapp.com/users/471390077772365854" align="center"> 
-  <img align="left" alt="Rico's Discord" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /> 
-</a>
+  <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
+  </a>
+  <!--
+    <a href="https://discordapp.com/users/471390077772365854" align="center"> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
+  </a>
+-->
 
 <br>
 <!--
